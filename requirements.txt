@@ -1,6 +1,7 @@
 streamlit
 langchain_core
 langchain
+langchain-text-splitters
 python-dotenv
 ollama
 langchain_community
