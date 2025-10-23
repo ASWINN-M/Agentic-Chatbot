@@ -1,5 +1,5 @@
-langchain_core
 streamlit
+langchain_core
 python-dotenv
 ollama
 langchain_community
