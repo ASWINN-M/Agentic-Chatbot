@@ -1,5 +1,6 @@
 streamlit
-langchain==0.1.316
+langchain_core
+langchain
 python-dotenv
 ollama
 langchain_community
